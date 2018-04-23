@@ -1,0 +1,7 @@
+Code included is for the stream generators used for the paper 'Lift-per-drift: an evaluation metric for classification frameworks with concept drift detection'.
+
+To use:
+1) 'Experimental code' features scripts used to run experiments shown in the paper.
+2) 'Dataset generators' features variants of MOA's data stream generators that allow specified class imbalance, and concept stream generators used within the experiments.
+
+For any use apart from considering alongside papers for publication, please request permission from the author by emailing rand079@aucklanduni.ac.nz
